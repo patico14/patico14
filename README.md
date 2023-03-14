@@ -1,4 +1,11 @@
-### Hi there 👋
+### HI, I'm Patricia 👋👩‍💻💗
+
+welcome to my page!
+
+I'm patricia, Fullstack developer from Lima, Perú 🇵🇪.
+
+My favourites tools: react , angular
+
 ```js
 const aboutMe = {
    pronouns: "she" | "her",
@@ -18,6 +25,8 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+
 
 <!--
 **patico14/patico14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
