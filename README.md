@@ -4,7 +4,7 @@ welcome to my page!
 
 I'm patricia, Fullstack developer from Lima, Perú 🇵🇪.
 
-My favourites tools: react , angular
+My favourites tools: 
 
 ```js
 const aboutMe = {
